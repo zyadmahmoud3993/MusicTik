@@ -52,32 +52,32 @@ window.onload = () => {
                 onclick="PlayBox('music/layered-snare_A_minor.wav', 'music/bass-drum-boomy-kick_B_minor.wav')"
                 style="--color:blue; --color2:red;"></div>
             <div class="boxmusic" id="tow"
-                onclick="PlayBox('/music/distorted-pulse-deep-techno-kicks.wav', '/music/boomy-kick-punchy-shot_C.wav')"
+                onclick="PlayBox('music/distorted-pulse-deep-techno-kicks.wav', 'music/boomy-kick-punchy-shot_C.wav')"
                 style="--color:white; --color2:rgb(32, 12, 216);"></div>
             <div class="boxmusic" id="three"
-                onclick="PlayBox('/music/hard-punchy-kick-angry-shot_B_minor.wav', '/music/tekno-kick-bassy_C_minor.wav')"
+                onclick="PlayBox('music/hard-punchy-kick-angry-shot_B_minor.wav', 'music/tekno-kick-bassy_C_minor.wav')"
                 style="--color:green; --color2:rgb(255, 238, 0);"></div>
-            <div class="boxmusic" id="four" onclick="PlayBox('/music/lo-fi-kick.wav', '/music/short-tekno-kick_C_major.wav')"
+            <div class="boxmusic" id="four" onclick="PlayBox('music/lo-fi-kick.wav', 'music/short-tekno-kick_C_major.wav')"
                 style="--color:red; --color2:rgb(55, 0, 255);">
             </div>
             <div class="boxmusic" id="five"
-                onclick="PlayBox('/music/buzzy-kick-one-fast-shot.wav', '/music/techno-kick-bass-recoil-hit_F_minor.wav')"
+                onclick="PlayBox('music/buzzy-kick-one-fast-shot.wav', 'music/techno-kick-bass-recoil-hit_F_minor.wav')"
                 style="--color:rgb(212, 0, 255); --color2:red;"></div>
-            <div class="boxmusic" id="six" onclick="PlayBox('/music/rdo-hat_C_major.wav', '/music/techno-kick-punch.wav')"
+            <div class="boxmusic" id="six" onclick="PlayBox('music/rdo-hat_C_major.wav', 'music/techno-kick-punch.wav')"
                 style="--color:orange; --color2:rgb(0, 4, 255);"></div>
-            <div class="boxmusic" id="seven" onclick="PlayBox('/music/wrk-hat.wav', '/music/tekno-kick-crunch.wav')"
+            <div class="boxmusic" id="seven" onclick="PlayBox('music/wrk-hat.wav', 'music/tekno-kick-crunch.wav')"
                 style="--color:rgb(0, 255, 115); --color2:rgb(98, 0, 255);"></div>
-            <div class="boxmusic" id="eight" onclick="PlayBox('/music/smooth-lo-fi-hat_A.wav', '/music/tekno-bass-kick_A.wav')"
+            <div class="boxmusic" id="eight" onclick="PlayBox('music/smooth-lo-fi-hat_A.wav', 'music/tekno-bass-kick_A.wav')"
                 style="--color:rgb(255, 0, 106); --color2:rgb(255, 145, 0);"></div>
-            <div class="boxmusic" id="nine" onclick="PlayBox('/music/ykz-hat_C_minor.wav', '/music/tekno-kick-aggressive.wav')"
+            <div class="boxmusic" id="nine" onclick="PlayBox('music/ykz-hat_C_minor.wav', 'music/tekno-kick-aggressive.wav')"
                 style="--color:rgb(187, 18, 32); --color2:rgb(55, 0, 255);"></div>
             <div class="boxmusic" id="ten"
-                onclick="PlayBox('/music/pulse-hard-drums-aggressive-loop_122bpm_D_minor.wav', '/music/kick-bass-loop-uptempo.wav')"
+                onclick="PlayBox('music/pulse-hard-drums-aggressive-loop_122bpm_D_minor.wav', 'music/kick-bass-loop-uptempo.wav')"
                 style="--color:rgb(0, 238, 255); --color2:rgb(255, 0, 0);"></div>
-            <div class="boxmusic" id="Eleven" onclick="PlayBox('/music/flux-hi-hats_.mp3', '/music/tekno-kicks-aggressive-fa.wav')"
+            <div class="boxmusic" id="Eleven" onclick="PlayBox('music/flux-hi-hats_.mp3', 'music/tekno-kicks-aggressive-fa.wav')"
                 style="--color:rgb(195, 0, 255); --color2:rgb(76, 0, 255);"></div>
             <div class="boxmusic" id="twelve"
-                onclick="PlayBox('/music/trap-snare-roll_147bpm.wav', '/music/tekno-bass-kick_185bpm_F_minor.wav')"
+                onclick="PlayBox('music/trap-snare-roll_147bpm.wav', 'music/tekno-bass-kick_185bpm_F_minor.wav')"
                 style="--color:rgb(48, 34, 110); --color2:rgb(255, 0, 0);"></div>
 
         </div>
