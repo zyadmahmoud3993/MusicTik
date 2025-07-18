@@ -19,6 +19,9 @@ function loading() {
             url: `${URL.createObjectURL(file.files[0])}`,
 
         })
+        if(pcOrmobile == 'mobile'){
+            wavesurfer.setVolume(.15);
+        }
         wavesurfer.on('interaction', () => {
             wavesurfer.play()
         })
