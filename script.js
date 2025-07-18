@@ -49,7 +49,7 @@ window.onload = () => {
 
         <div class="contaner">
             <div class="boxmusic" id="one"
-                onclick="PlayBox('/music/layered-snare_A_minor.wav', '/music/bass-drum-boomy-kick_B_minor.wav')"
+                onclick="PlayBox('music/layered-snare_A_minor.wav', 'music/bass-drum-boomy-kick_B_minor.wav')"
                 style="--color:blue; --color2:red;"></div>
             <div class="boxmusic" id="tow"
                 onclick="PlayBox('/music/distorted-pulse-deep-techno-kicks.wav', '/music/boomy-kick-punchy-shot_C.wav')"
